@@ -2,7 +2,7 @@
 ## Emotion Recognition Based on Brain-Computer Interface Systems
 This project involves developing an Artificial Intelligence (AI) model using a Deep Learning algorithm for emotion recognition. Using Tenserflow, our Deep neural network (DNN) model has an accuracy of 0.77 (77%). The predicted emotions (positive, neutral or negative) are displayed on a dashboard using Plotly Dash.
 
-Features: 
+### Features: 
 1. Reading and preprocessing raw EEG data stored in .mat files
 2. Epoching data into 1-second segments
 3. Feature selection
