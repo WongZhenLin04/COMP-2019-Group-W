@@ -14,4 +14,4 @@ This project involves developing an Artificial Intelligence (AI) model using a D
 ![DNN accuracy](https://user-images.githubusercontent.com/104295321/223138039-a60a0244-68ca-4fa0-bc10-6b4d7306c223.jpg)
 
 ### Dashboard  
-![dashboard](https://user-images.githubusercontent.com/104295321/223139736-77fca232-671d-439d-8591-4839c7d7c16d.jpg)
+![dashboard](https://user-images.githubusercontent.com/104295321/223644361-9a930d50-5b07-45c8-87bd-dde9cda1fc23.png)
