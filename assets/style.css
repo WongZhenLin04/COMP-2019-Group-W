@@ -1,0 +1,123 @@
+body {
+  background-color:#121212;
+  color:#95969A;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  margin-top: 30px;
+  justify-content: center;
+  
+}
+
+
+/********************* TEXT *********************/
+h1 {
+  margin-top: 50px;
+  text-transform: uppercase;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+h3 {
+  margin-top: 45px;
+  text-transform: uppercase;
+  font-size: 25px;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 30px;
+  text-transform: uppercase;
+  font-size: 35px;
+  color: white;
+  text-align: center;
+}
+
+h4 {
+  margin-top: 30px;
+  font-size: 17px;
+  color: white;
+  text-align: center;
+}
+
+h5 {
+  margin-top: 30px;
+  font-size: 14px;
+  color: white;
+  text-align: center;
+}
+
+
+/********************* CONTAINER *********************/
+#GFPContainer {
+  width: 6; 
+  overflow: hidden;
+  background-color: #18242B;
+ 
+  
+}
+
+#lineChartContainer {
+  width:6; 
+  overflow: hidden;
+
+
+  
+}
+
+#barChartDes {
+
+  overflow: hidden;
+  background-color: #18242B;
+
+}
+
+#GFPDes {
+  overflow: hidden;
+  background-color: #18242B;
+
+}
+
+#heatMapDes {
+  
+  height: 67.5vh;
+  overflow: hidden;
+  background-color: #18242B;
+
+}
+
+#emotion {
+  
+  margin-top: 1rem;
+  overflow: hidden;
+  background-color: #18242B;
+
+}
+
+
+
+
+/********************* DROPDOWNS *********************/
+#clipDrop {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 2.5rem;
+}
+
+
+
+/********************* SWITCH *********************/
+#moreOptionsChecklist {
+    
+  color: #84C9FB;
+  margin-left: 20px;
+  margin-top: 3rem;
+}
+
+
