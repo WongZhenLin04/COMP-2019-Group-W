@@ -1,0 +1,306 @@
+body {
+  background-color:#121212;
+  color:#95969A;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  margin-top: 30px;
+  text-align: center;
+  
+}
+
+
+
+#emotionGIF {
+  display: flex;
+  justify-content: center;
+}
+
+
+
+/********************* TEXT *********************/
+
+h1 {
+  margin-top: 50px;
+  text-transform: uppercase;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  /*justify-content: center;*/
+}
+
+
+
+h2 {
+  margin-top: 30px;
+  text-transform: uppercase;
+  font-size: 35px;
+  color: #D3D3D3;
+  text-align: center;
+}
+
+
+
+h3 {
+  margin-top: 0.5rem;
+  text-transform: uppercase;
+  font-size: 25px;
+  color: #D3D3D3;
+  text-align: left;
+  padding-left: 10px;
+}
+
+
+
+h4 {
+  margin-top: 30px;
+  font-size: 17px;
+  color: white;
+  text-align: center;
+}
+
+
+
+h5 {
+  margin-top: 30px;
+  font-size: 14px;
+  color: white;
+  text-align: center;
+}
+
+
+
+p {   
+  text-align: justify;
+}
+
+
+#mainTitle {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+
+
+
+.activities {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+
+
+/********************* CONTAINERS *********************/
+
+/*#timeField {
+
+  height: 30vh;
+  background-color: #18242B;
+  margin-top: 0px;
+}
+
+
+
+#mainContent {
+    padding-right:0px;
+}*/
+
+
+
+#clipField {
+  margin-top:2rem;  
+}
+
+
+
+.section{
+  margin-top: 10px;
+}
+
+
+
+#optionPick {
+  margin-top: 10px;
+  height: 75vh;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  background-color: #18242B;
+}
+
+
+
+#emotion {
+  margin-top: 10px;
+  margin-right: 13px;
+  background-color: #18242B;
+  height: 75vh;
+  transition: all .4s ease;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  margin-left: 10px;
+}
+
+
+
+#heatMapDes {
+  height: 75vh;
+  background-color: #18242B;
+  margin-right: 0px;
+  overflow-y: scroll;
+}
+
+
+
+#barChartDes {
+  overflow-y: scroll;
+  background-color: #18242B;
+  height: 75vh;
+}
+
+
+
+#GFPDes {
+  padding-top: 30px;
+  background-color: #18242B;
+  margin-top: 10px;
+  margin-right: 13px;
+  margin-left: 1px;
+  margin-bottom: 15px;
+}
+
+
+
+/********************* SLIDER *********************/
+
+#time {
+  margin-top: 2rem;
+  color: teal;
+}
+
+
+
+/********************* DROPDOWNS *********************/
+
+#clipDrop {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 0.5rem;
+}
+
+
+#nodeDrop {
+  padding-top: 1rem;
+  padding-left: 1rem;
+}
+
+
+
+/********************* SWITCH *********************/
+
+#moreOptionsSel { 
+  margin-top: 3rem;
+  padding-left: 0.5rem;
+}
+
+
+
+/********************* TAB *********************/
+
+.tab {
+  background-color: #18242B;
+  border-color: #23262E;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+.tab:hover {
+  background-color: #475567;
+  border-color: #475567;
+}
+
+
+
+/********************* LABELS *********************/
+
+#nodeLabel {
+  padding-top: 2rem;
+  justify-content: center;
+}
+
+
+
+#nodeSectionLabel{
+  background-color: #18242B;
+  justify-content: center;
+  /*height: 35vh;*/
+}
+
+
+
+/********************* INPUT FIELD *********************/
+
+#inputTime {
+  margin-top: 0.5rem;
+  margin-left: 1rem;
+  vertical-align: top;
+  text-align: left;
+  height:2rem;
+}
+
+
+
+/********************* CHARTS *********************/
+
+.title {
+  border-bottom: thin solid black;
+  padding-left: 5px;
+  background-color: #18242B;
+}
+
+
+
+#heatmap {
+  height: 71.5vh;
+  background-color: #18242B;
+}
+
+
+
+#barChartContainer {
+  height: 71.5vh;
+  background-color: #18242B;
+}
+
+
+
+#lineChartContainer {
+  overflow: hidden;
+  margin-right:0px;
+  padding-right:0px;
+}
+
+
+
+#GFPContainer {
+  overflow: hidden;
+  background-color: #18242B;
+  height: 71.5vh;
+}
+
+
+
+
+
+
+
+
+
+
